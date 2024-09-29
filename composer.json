@@ -1,0 +1,12 @@
+{
+    "name": "skepticspriggan/yii2-switch",
+    "description": "A simple switch with a low waste of resources and fast response time.",
+    "type": "library",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "SkepticSpriggan\\": "src/"
+        }
+    },
+}
+
